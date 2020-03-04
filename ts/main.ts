@@ -1,0 +1,2 @@
+//
+let tiempo: string = "bueno"
